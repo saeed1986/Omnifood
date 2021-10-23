@@ -131,8 +131,12 @@ Privacy & terms
 
 ## Sections
 
+- Logo + Navigation
 - Hero
-- Features
-- How it work
-- Diets
-- Meals
+- Featured in
+- How it works
+- Meals (and list of diets)
+- Testimonials + Gallery
+- Pricing + features
+- CTA
+- Footer
